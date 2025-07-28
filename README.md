@@ -2,8 +2,8 @@
 
 This project uses the UK Government's Renewable Energy Planning Dataset (REPD) to explore trends in renewable energy projects by region, technology, status, and capacity. 
 
-🔧 **Tools:** SQL (for data modeling & queries), Tableau (for visualisation)
-
+🔧 **Tools:** SQL (for data modeling & queries), Tableau (for visualisation) 
+🔗 [View the Interactive Dashboard on Tableau Public]([https://public.tableau.com/app/profile/yourname/viz/your-dashboard-link](https://prod-uk-a.online.tableau.com/t/mekuilaureenlm-3395ab805b/views/UKRenewableEnergyInsightsfromtheREPDDataset2025Q1/ST1_REPD/5c66519e-8694-4b06-9b46-1deae98cee03/d52820af-32fa-482d-95d5-e42e1ae36a17))
 
 📁 **Files included:**
 
