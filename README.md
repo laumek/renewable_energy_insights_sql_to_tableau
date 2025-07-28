@@ -1,9 +1,11 @@
 # renewable_energy_sql_project
 
-This project has for aim to analyse, track, and assess renewable energy projects in the UK: by region, technology, status, and capacity. 
+This project uses the UK Government's Renewable Energy Planning Dataset (REPD) to explore trends in renewable energy projects by region, technology, status, and capacity. 
+
+🔧 **Tools:** SQL (for data modeling & queries), Tableau (for visualisation)
 
 
-This repository contains:
+📁 **Files included:**
 
 - Renewable Energy Planning Dataset (REPD) I found on https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract and perfomed light cleaning on(converted to UTF-8 and handled misaligned values)
 
@@ -13,12 +15,14 @@ This repository contains:
 
 - queries.sql and views.sql files 
 
-- Tableau dashboard for reports
+-  Tableau dashboard - `repd_insights.twbx` 
 
+📊 **Tableau Workbook Key features:**
+- Installed and planned capacity by region and tech
+- Operator-level insights
+- Geographic and temporal trends
 
----- Tables:
-
-
+🗒️**SQL Tables:**
 Table: locations (dimension)
 * location_id
 * county
@@ -64,5 +68,5 @@ Table: planning_events
 * event_date
 
 
-Next steps of the project:
-Tableau dashboard / ML forecasting / Adding external_data (UK emissions, previous and future UK REPD)/ Analysis over time...
+Next steps for the project:
+ ML forecasting / Adding external_data (UK emissions, previous and future UK REPD)/ Analysis over time...
