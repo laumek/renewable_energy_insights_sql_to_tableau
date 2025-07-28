@@ -3,7 +3,7 @@
 This project uses the [UK Government's Renewable Energy Planning Dataset (REPD) April 2025](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract) to explore trends in renewable energy projects by region, technology, status, and capacity. 
 
 🔧 **Tools:** SQL (for data modeling & queries), Tableau (for visualisation) 
-🔗 [View the Interactive Dashboard on Tableau Public](https://public.tableau.com/shared/84MKG8786?:display_count=n&:origin=viz_share_link)
+🔗 [View the Interactive Dashboard on Tableau Public](https://public.tableau.com/shared/FB4TB7MZ4?:display_count=n&:origin=viz_share_link)
 
 
 📁 **Files included:**
