@@ -14,7 +14,7 @@ This project uses the [UK Government's Renewable Energy Planning Dataset (REPD) 
 
 - EER diagram (for visual representation of the schema used)
 
-- queries.sql and views.sql files 
+- queries.sql file
 
 -  Tableau dashboard - `repd_insights.twbx` 
 
