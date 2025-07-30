@@ -1,4 +1,5 @@
-# renewable_energy_sql_project
+# renewable_energy_insights_sql_to_tableau
+
 
 This project uses the [UK Government's Renewable Energy Planning Dataset (REPD) April 2025](https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract) to explore trends in renewable energy projects by region, technology, status, and capacity. 
 
